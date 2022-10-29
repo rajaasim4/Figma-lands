@@ -23,7 +23,7 @@ const Footer = () => {
             lg="3"
             md="6"
             className="text-light mb-4 d-flex flex-column align-items-sm-center aling-items-lg-start justify-sm-center "
-            // className="text-light mb-4 d-flex flex-column align-items-sm-center justify-sm-center "
+            // className="text-light mb-4 d-flex flex-column a     lign-items-sm-center justify-sm-center "
           >
             <h6 className="text-light mb-md-4">Resources</h6>
             <Nav.Link className="fw-light">Home</Nav.Link>
