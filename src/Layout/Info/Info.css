@@ -1,0 +1,18 @@
+.Info {
+  background-color: black;
+}
+.Info_main {
+  background: #343434;
+  /* shadow */
+
+  box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+  border-radius: 33px;
+}
+@media screen and (max-width: 426px) {
+  .Info_main .d-flex {
+    margin-top: 35px !important;
+  }
+  .Info {
+    padding: 0px 10px;
+  }
+}

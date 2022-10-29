@@ -1,0 +1,10 @@
+.Content {
+  background-color: black;
+}
+.Content_main {
+  height: 476px;
+  background: #ffffff;
+  border: 1px solid #d3d3d3;
+  box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+}

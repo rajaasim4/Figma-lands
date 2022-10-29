@@ -1,0 +1,12 @@
+.Partners {
+  background-color: black;
+}
+.Partners_img {
+  width: 10%;
+}
+@media screen and (max-width: 426px) {
+  .Partners_img {
+    width: 22%;
+    margin-right: 30px;
+  }
+}

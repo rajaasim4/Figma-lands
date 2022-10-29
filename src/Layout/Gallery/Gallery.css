@@ -1,0 +1,9 @@
+.Gallery {
+  background-color: black;
+}
+@media screen and (max-width: 426px) {
+  #g7,
+  #g5 {
+    display: none;
+  }
+}

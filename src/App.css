@@ -1,0 +1,13 @@
+@font-face {
+  font-family: Graphik;
+  src: url("./Fonts/GraphikBlack.otf");
+}
+* {
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+  list-style: none;
+}
+:root {
+  --graphikfont: "Graphik";
+}

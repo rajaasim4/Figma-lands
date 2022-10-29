@@ -1,0 +1,18 @@
+.Testimonials {
+  background-color: black;
+}
+.Testimonial_main {
+  width: 80%;
+  /* width: 430px; */
+  height: Hug (328px);
+  background: #181818;
+  border: 1px solid #dedede;
+  border-radius: 10px;
+  padding: 20px 30px;
+  box-sizing: border-box;
+}
+@media screen and (max-width: 1024px) {
+  .Testimonial_main {
+    width: 100%;
+  }
+}
